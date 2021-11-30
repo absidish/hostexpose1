@@ -1,0 +1,7 @@
+{
+  "name": "hostexpose1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
